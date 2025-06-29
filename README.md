@@ -1,1 +1,5 @@
-An autonomous marine buoy standing watch over our seas, collecting and transmitting vital oceanographic data 24/7.
+## Project Sentinel
+Surface Environmental Node for Telemetry, Information, & Nearshore Ecosystem Logging
+
+### Overview
+Project Sentinel is an open-source, low-cost marine data buoy designed to address the critical need for accessible ocean observation technology. In a world where 80% of the ocean remains unmonitored and professional systems are prohibitively expensive, Project Sentinel provides an affordable, replicable platform for students, researchers, and citizen scientists.This project was born from a passion for marine robotics and is specifically dedicated to monitoring Indonesia's vital marine ecosystems. With a primary mission focused on coral reef health, Sentinel aims to collect key environmental data, such as sea surface temperature and water quality. This data serves as an early warning system for coral bleaching events and other ecosystem stressors, representing a practical step towards democratizing ocean science and empowering local communities to participate in the conservation of their own marine heritage.
